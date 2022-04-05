@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akindan
-- 👀 I’m interested in clouds computing, Crypto and business strategy 
+- 👀 I’m interested in web devlopment, clouds computing and business strategy 
 - 🌱 I’m currently learning AWS cloud computing 
 - 💞️ I’m looking to collaborate on projects regarding cloud engineering 
 - 📫 How to reach me ...
